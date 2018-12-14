@@ -1,0 +1,59 @@
+unsigned
+unsigned int
+unsigned long
+unsigned long int
+unsigned float
+unsigned long float
+short int
+long float
+long int
+bool
+float
+string
+char
+int
+switch
+case
+default
+break
+if
+else
+else if
+do
+while
+for
+class
+struct
+cout
+cin
+include
+catch
+try
+not
+and
+xor
+or
+return
+@
+}
+{
+]
+[
+#
+&
+!
+)
+(
+/
++
+-
+=
+<
+>
+*
+%
+,
+:
+"
+;
+.
